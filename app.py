@@ -3,7 +3,7 @@ from pulp import *
 import matplotlib.pyplot as plt
 import numpy as np
 
-df = pd.read_csv(r'C:\Users\Dell\Documents\supply_chain_optimizer\data\superstore_clean.csv')
+df = pd.read_csv('data/superstore_clean.csv')
 
 df['Profit_Margin'] = df['Profit'] / df['Sales']
 furniture = df[df['Category'] == 'Furniture']
