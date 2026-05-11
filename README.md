@@ -1,4 +1,4 @@
-# Supply Chain Optimizer
+# Supply Chain Optimization
 
 Retail discount optimization using Python, Pandas, and Linear Programming.
 
