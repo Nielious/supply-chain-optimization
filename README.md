@@ -15,14 +15,14 @@ Built a Linear Programming model using PuLP to find optimal solution for discoun
 
 ## Results
 
-Tables from -$30,574 to +$23,503
-Bookcases from -$14,548 to +$9,707 
-Chairs from +$14,419 to +$47,264
-Furnishings from +$12,570 to +$21,740
+| Sub-Category | Old Profit | New Profit |
+|---|---|---|
+| Tables | -$30,574 | +$23,503 |
+| Bookcases | -$14,548 | +$9,707 |
+| Chairs | +$14,419 | +$47,264 |
+| Furnishings | +$12,570 | +$21,740 |
 
-Total old profit: -18,133 
-Total new profit: 102,214
-Increase: 120,347
+**Total old profit: -$18,133 | New profit: $102,214 | Increase: $120,347**
 
 <img width="1000" height="600" alt="Figure1" src="https://github.com/user-attachments/assets/51ee77d3-6194-4648-ab73-b7b7349ab31a" />
 
